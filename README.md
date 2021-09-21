@@ -1,2 +1,2 @@
-# Charts
-Here you'll find all my charts
+# Plots
+Here you'll find all my plots
